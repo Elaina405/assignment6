@@ -1,0 +1,105 @@
+
+    *{
+      box-sizing: border-box;
+    }
+    div.container{
+background: rgb(245, 222, 181);
+border: 5px solid #5d3e1f;
+    }
+    body{
+      background-color: #ffa844;
+    }
+  
+  .nav{
+background: #5d3e1f;
+height: 100px;
+text-align: right;
+text-decoration: none;
+  }
+  .menu-button{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 530;
+    font-size: 30px;
+    display: block;
+    color: black;
+    text-align: center;
+    margin-right: 5%;
+  }
+  a{
+    color: white;
+    font-size: 25px;
+    margin-left: 75px;
+  }
+
+  header{
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+  }
+ 
+  h1{
+  color: #fe8b07;
+  font-size: 50px;
+ padding-top: 5%;
+  text-align: center;
+  }
+  h3{
+    display: inline-block;
+    color: #2f2b2b;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-left: 20px;
+    text-align: center;
+  }
+
+  
+  a:link{
+    text-decoration: none;
+  }
+a:hover{
+text-decoration: underline; 
+}
+
+  .nav ul{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+    margin-right: 3%;
+    padding-top: 3.5%;
+  }
+  li{
+    display: inline-block;
+    text-align: right;
+  }
+  a{
+    display: inline-block;
+    text-align: right; 
+  }
+
+div.right, div.middle, div.left{
+  width: 33.33%
+  
+}
+div.left{
+  margin-top: 50px;
+  display: inline-block;
+  float: left;
+}
+div.middle{
+  margin-top: 50px;
+  display: inline-block; 
+  float: left;
+}
+div.right{
+  margin-top: 50px;
+  display: inline-block;
+  float: left;
+}
+aside img{
+  width: 100%
+}
+
+aside{
+  overflow: hidden;
+}
+ 
