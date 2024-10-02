@@ -96,7 +96,7 @@ div.right{
   float: left;
 }
 div.bottom{
-  display: inline
+  display: inline-block
 }
 aside img{
   width: 100%
