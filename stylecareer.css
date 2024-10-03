@@ -1,0 +1,109 @@
+*{
+  box-sizing: border-box;
+}
+div.container{
+background: rgb(245, 222, 181);
+border: 5px solid #5d3e1f;
+}
+body{
+  background-color: #ffa844;
+}
+
+.nav{
+background: #5d3e1f;
+height: 100px;
+text-align: right;
+text-decoration: none;
+}
+.menu-button{
+font-family: 'Courier New', Courier, monospace;
+font-weight: 530;
+font-size: 30px;
+display: block;
+color: black;
+text-align: center;
+margin-right: 5%;
+}
+a{
+color: white;
+font-size: 25px;
+margin-left: 75px;
+}
+
+header{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: black;
+padding-top: 0px;
+padding-bottom: 10%;
+margin-left: 10%;
+margin-right: 10%;
+}
+
+h1{
+font-family: 'Courier New', Courier, monospace;
+color: #fe8b07;
+font-size: 50px;
+padding-top: 5px;
+padding-left: 15%;
+padding-bottom: 0;
+text-align: left;
+}
+
+
+a:link{
+text-decoration: none;
+}
+a:hover{
+text-decoration: underline; 
+}
+
+.nav ul{
+font-family: 'Courier New', Courier, monospace;
+display: flex;
+flex-direction: row;
+display: inline-block;
+margin-right: 3%;
+padding-top: 3.5%;
+}
+li{
+display: inline-block;
+text-align: right;
+}
+a{
+display: inline-block;
+text-align: right; 
+}
+
+div.right, div.middle, div.left{
+width: 33.33%
+
+}
+div.left{
+margin-top: 30px;
+display: inline-block;
+float: left;
+}
+div.middle{
+margin-top: 30px;
+display: inline-block; 
+float: left;
+}
+div.right{
+margin-top: 30px;
+display: inline-block;
+float: left;
+}
+div.bottom{
+display: inline-block
+}
+aside img{
+width: 100%
+}
+
+aside{
+overflow: hidden;
+}
+footer{
+background-color: black;
+color: white;
+}

@@ -1,5 +1,4 @@
-
-    *{
+*{
       box-sizing: border-box;
     }
     div.container{
@@ -32,23 +31,22 @@ text-decoration: none;
   }
 
   header{
-text-align: center;
-font-family: 'Courier New', Courier, monospace;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: black;
+  padding-top: 0px;
+  padding-bottom: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
   }
  
   h1{
+  font-family: 'Courier New', Courier, monospace;
   color: #fe8b07;
   font-size: 50px;
- padding-top: 5%;
-  text-align: center;
-  }
-  h3{
-    display: inline-block;
-    color: #2f2b2b;
-    padding-top: 10px;
-    padding-bottom: 30px;
-    margin-left: 20px;
-    text-align: center;
+ padding-top: 5px;
+ padding-left: 15%;
+ padding-bottom: 0;
+ text-align: left;
   }
 
   
@@ -81,17 +79,17 @@ div.right, div.middle, div.left{
   
 }
 div.left{
-  margin-top: 50px;
+  margin-top: 30px;
   display: inline-block;
   float: left;
 }
 div.middle{
-  margin-top: 50px;
+  margin-top: 30px;
   display: inline-block; 
   float: left;
 }
 div.right{
-  margin-top: 50px;
+  margin-top: 30px;
   display: inline-block;
   float: left;
 }
