@@ -34,7 +34,7 @@ text-decoration: none;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: black;
   padding-top: 0px;
-  padding-bottom: 10%;
+  padding-bottom: 5px;
   margin-left: 10%;
   margin-right: 10%;
   }
@@ -43,7 +43,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
   font-family: 'Courier New', Courier, monospace;
   color: #fe8b07;
   font-size: 50px;
- padding-top: 5px;
+ padding-top: 10px;
  padding-left: 15%;
  padding-bottom: 0;
  text-align: left;
@@ -102,4 +102,9 @@ aside img{
 
 aside{
   overflow: hidden;
+}
+.slideshow{
+background-color: #5d3e1f;
+padding-left: 25%;
+overflow: hidden;
 }

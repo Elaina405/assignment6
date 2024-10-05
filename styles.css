@@ -25,6 +25,7 @@ text-decoration: none;
     text-align: center;
    padding-right: 5%;
   }
+
   a{
     color: white;
     font-size: 25px;
@@ -32,15 +33,15 @@ text-decoration: none;
   }
 
   header{
-text-align: center;
+    text-align: center;
 font-family: 'Courier New', Courier, monospace;
   }
  
   h1{
-  color: #fe8b07;
-  font-size: 50px;
- padding-top: 5%;
-  text-align: center;
+    color: #fe8b07;
+    font-size: 50px;
+   padding-top: 25px;
+   
   }
   h3{
     display: inline-block;
@@ -50,6 +51,10 @@ font-family: 'Courier New', Courier, monospace;
     margin-left: 20px;
     text-align: center;
   }
+.uc{
+  display: inline-block;
+  margin-right: 25px;
+}
   a:link{
     text-decoration: none;
   }
@@ -88,7 +93,8 @@ div.right{
   float: left;
 }
 div.bottom{
-  display: inline-block
+  display: inline-block;
+  padding-right: 0;
 }
 aside img{
   width: 100%
@@ -96,22 +102,4 @@ aside img{
 aside{
   overflow: hidden;
 }
-.slideshow{
-  margin-top: 80px;
-  padding-left: 210px;
-} 
-.section{
-width: 500px;
-float: left;
-margin-right: 40px;
-background-repeat: no-repeat;
-position: relative;
-height: 600px;
-}
-.section.one{
-  background-image: 
-  url(images/pexels-vovaflame-3704460.jpg);
-}
-.overlay{
-  background-color: rgba(255,255,255,.5);
-}
+
