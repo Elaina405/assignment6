@@ -24,6 +24,7 @@ text-decoration: none;
     color: black;
     text-align: center;
    padding-right: 5%;
+   margin-bottom: 25px;
   }
 
   a{
@@ -40,7 +41,7 @@ font-family: 'Courier New', Courier, monospace;
   h1{
     color: #fe8b07;
     font-size: 50px;
-   padding-top: 25px;
+   padding-top: 35px;
    
   }
   h3{
@@ -94,7 +95,8 @@ div.right{
 }
 div.bottom{
   display: inline-block;
-  padding-right: 0;
+  padding-right: 0%;
+  
 }
 aside img{
   width: 100%
