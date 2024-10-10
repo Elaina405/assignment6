@@ -67,7 +67,7 @@ text-decoration: underline;
     display: flex;
     flex-direction: row;
     display: inline-block;
-    margin-right: 3%;
+    margin-right: 4%;
     padding-top: 3.5%;
   }
   li{
@@ -96,7 +96,7 @@ div.right{
 div.bottom{
   display: inline-block;
   padding-right: 0%;
-  
+  padding-left: 4%;
 }
 aside img{
   width: 100%

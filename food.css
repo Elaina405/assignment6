@@ -1,0 +1,80 @@
+*{
+  box-sizing: border-box;
+}
+div.container{
+background: rgb(245, 222, 181);
+border: 5px solid #5d3e1f;
+}
+body{
+  background-color: #ffa844;
+}
+
+.nav{
+background: #5d3e1f;
+height: 100px;
+text-align: right;
+text-decoration: none;
+}
+
+a{
+color: white;
+font-size: 25px;
+margin-left: 75px;
+}
+
+
+
+h1{
+font-family: 'Courier New', Courier, monospace;
+color: #fe8b07;
+font-size: 50px;
+padding-top: 3px;
+padding-left: 3px;
+padding-bottom: 0;
+text-align: center;
+}
+h3{
+  font-size: 25px;
+}
+.backtomenu{
+  color: black;
+
+}
+.food{
+  color: black;
+  display: inline;
+  padding-left: 41.4%;
+}
+.fooddrink{
+
+padding-bottom: 10px;
+}
+
+
+a:link{
+text-decoration: none;
+}
+a:hover{
+text-decoration: underline; 
+}
+
+.nav ul{
+font-family: 'Courier New', Courier, monospace;
+display: flex;
+flex-direction: row;
+display: inline-block;
+margin-right: 3%;
+padding-top: 3.5%;
+}
+li{
+display: inline-block;
+text-align: right;
+}
+a{
+display: inline-block;
+text-align: right; 
+}
+aside{
+padding-top: 2%;
+padding-left: 15%;
+}
