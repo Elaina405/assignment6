@@ -36,17 +36,16 @@ text-align: center;
 h3{
   font-size: 25px;
 }
-.backtomenu{
-  color: black;
-
-}
 .food{
   color: black;
   display: inline;
   padding-left: 41.4%;
 }
+.backtomenu{
+  color: black;
+  
+}
 .fooddrink{
-
 padding-bottom: 10px;
 }
 
@@ -76,5 +75,9 @@ text-align: right;
 }
 aside{
 padding-top: 2%;
-padding-left: 15%;
+padding-left: 16.5%;
+padding-bottom: 5%;
+}
+img{
+  padding-left: 10px;
 }
