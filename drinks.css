@@ -22,8 +22,6 @@ font-size: 25px;
 margin-left: 75px;
 }
 
-
-
 h1{
 font-family: 'Courier New', Courier, monospace;
 color: #fe8b07;
@@ -80,4 +78,7 @@ padding-bottom: 5%;
 }
 img{
   padding-left: 10px;
+}
+p{
+  font-weight: bolder;
 }
