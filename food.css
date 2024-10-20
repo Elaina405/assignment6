@@ -76,11 +76,18 @@ text-align: right;
 aside{
 padding-top: 2%;
 padding-left: 16.5%;
-padding-bottom: 5%;
+padding-bottom: 2%;
 }
 img{
   padding-left: 10px;
 }
 p{
   font-weight: bolder;
+  text-align: center;
+}
+.p1{
+  text-align: center;
+}
+.descriptions{
+  padding-bottom: 5%;
 }
